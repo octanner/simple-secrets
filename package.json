@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "base64url": "^3.0.x",
-    "msgpack5": "git+https://github.com/octanner/msgpack5",
+    "msgpack5": "git+https://github.com/octanner/msgpack5#e56c0604bfff3e85a13e227c99b94962d3e1e005",
     "sinon": "^1.x"
   },
   "devDependencies": {
