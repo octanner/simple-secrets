@@ -1,6 +1,6 @@
 {
   "name": "simple-secrets",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "simple, opinionated library encrypting small packets of data",
   "keywords": [
     "crypto",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "base64url": "^3.0.x",
-    "msgpack5": "git+https://github.com/octanner/msgpack5",
+    "msgpack5": "git+https://github.com/octanner/msgpack5#e5c8f920a209b3115550e8fbb635378645f0812e",
     "sinon": "^1.x"
   },
   "devDependencies": {
